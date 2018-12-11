@@ -7,12 +7,7 @@
 - 我们开发过程中，部分类型的商品管理app会经常用到大小单位转换，如酒类中的1箱=6瓶的转换。RatioButton就是将大小单位转换的逻辑，库存判断逻辑，越界判断逻辑进行了封装，避免了重复造轮子。目前的v1.0.0还是一个基础版本，后期还需要进行优化。
 
 ## 示例效果 ##
-<img src="https://github.com/lintianlin/RatioButton/tree/master/gif/ratio.gif" width=300 height=450 />
-<img src="https://github.com/lintianlin/RatioButton/tree/master/gif/yj.gif" width=300 height=450 />
-<img src="https://github.com/lintianlin/RatioButton/tree/master/gif/zero.gif" width=300 height=450 />
-<img src="https://github.com/lintianlin/RatioButton/tree/master/gif/dialog.gif" width=300 height=450 />
-
-<div align=center><img width="216" height="384" src="https://github.com/lintianlin/RatioButton/tree/master/gif/ratio.gif"/>
+<div align=center><img width="216" height="384" src="https://github.com/lintianlin/RatioButton/blob/master/gif/ratio.gif"/>
 <img width="216" height="384" src="https://github.com/lintianlin/RatioButton/tree/master/gif/yj.gif"/>
 <img width="216" height="384" src="https://github.com/lintianlin/RatioButton/tree/master/gif/zero.gif"/>
 <img width="216" height="384" src="https://github.com/lintianlin/RatioButton/tree/master/gif/dialog.gif"/>
