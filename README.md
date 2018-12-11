@@ -93,7 +93,7 @@
 
 ```
 
-		<com.sinfeeloo.ratiobutton.RatiolBtn
+	<com.sinfeeloo.ratiobutton.RatiolBtn
 	        android:id="@+id/bsb_goods"
 	        android:layout_width="wrap_content"
 	        android:layout_height="wrap_content"
@@ -108,8 +108,7 @@
 - 4.edit java
 
 ```
-
-			ratioBtn.setRatio(item.getRatio());
+		    ratioBtn.setRatio(item.getRatio());
 	        ratioBtn.setMaxCount(item.getStorage());
 	        ratioBtn.setUnit(item.getSmallUnit(), item.getBigUnit());
 	        ratioBtn.setDisplayCount(item.getSmallcount(), item.getBigCount());
