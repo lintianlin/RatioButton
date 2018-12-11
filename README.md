@@ -8,9 +8,9 @@
 
 ## 示例效果 ##
 <div align=center><img width="216" height="384" src="https://github.com/lintianlin/RatioButton/blob/master/gif/ratio.gif"/>
-<img width="216" height="384" src="https://github.com/lintianlin/RatioButton/tree/master/gif/yj.gif"/>
-<img width="216" height="384" src="https://github.com/lintianlin/RatioButton/tree/master/gif/zero.gif"/>
-<img width="216" height="384" src="https://github.com/lintianlin/RatioButton/tree/master/gif/dialog.gif"/>
+<img width="216" height="384" src="https://github.com/lintianlin/RatioButton/blob/master/gif/yj.gif"/>
+<img width="216" height="384" src="https://github.com/lintianlin/RatioButton/blob/master/gif/zero.gif"/>
+<img width="216" height="384" src="https://github.com/lintianlin/RatioButton/blob/master/gif/dialog.gif"/>
 </div>
 
 ## 关键代码 ##
