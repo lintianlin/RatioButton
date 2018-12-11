@@ -109,9 +109,7 @@
 - 4.edit java
 
 ```
-
-
-		    ratioBtn.setRatio(item.getRatio());
+		 ratioBtn.setRatio(item.getRatio());
 	        ratioBtn.setMaxCount(item.getStorage());
 	        ratioBtn.setUnit(item.getSmallUnit(), item.getBigUnit());
 	        ratioBtn.setDisplayCount(item.getSmallcount(), item.getBigCount());
