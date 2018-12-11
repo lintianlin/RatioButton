@@ -12,6 +12,12 @@
 <img src="https://github.com/lintianlin/RatioButton/tree/master/gif/zero.gif" width=300 height=450 />
 <img src="https://github.com/lintianlin/RatioButton/tree/master/gif/dialog.gif" width=300 height=450 />
 
+<div align=center><img width="216" height="384" src="https://github.com/lintianlin/RatioButton/tree/master/gif/ratio.gif"/>
+<img width="216" height="384" src="https://github.com/lintianlin/RatioButton/tree/master/gif/yj.gif"/>
+<img width="216" height="384" src="https://github.com/lintianlin/RatioButton/tree/master/gif/zero.gif"/>
+<img width="216" height="384" src="https://github.com/lintianlin/RatioButton/tree/master/gif/dialog.gif"/>
+</div>
+
 ## 关键代码 ##
 
 ```
